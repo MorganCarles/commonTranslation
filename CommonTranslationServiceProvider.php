@@ -11,6 +11,8 @@ class CommonTranslationServiceProvider extends TranslationServiceProvider implem
     // chemin vers les ressources de langues
     private $pathToLang = __DIR__ . '/lang';
 
+
+	
     /**
      * Surcharge le service pour lui imposer le répertoire de langue common
      *
