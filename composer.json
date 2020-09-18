@@ -1,0 +1,15 @@
+{
+    "name": "morgan.carles/common-translation",
+    "type": "library",
+    "require": {
+        "php": "^7.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Morgan Carles",
+            "email": "morgan.carles@clc.fr"
+        }
+    ],
+    "minimum-stability": "dev"
+}
